@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/NewBlackboardData.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/W3/398DMWIU24B2BZZ9ZRBEEQ.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/a/CubeGridToolOutput_E2E84D46.uasset",
 				"C:/Users/u2529469/OneDrive - University of East London/Unreal Projects/EldritchHorror/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
