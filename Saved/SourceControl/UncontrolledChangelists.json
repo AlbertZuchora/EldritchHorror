@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/NewBlackboardData.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/programmerTesting/bp_Door.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/M0/WQR59H5LHG0Q6BOFWYS72R.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
