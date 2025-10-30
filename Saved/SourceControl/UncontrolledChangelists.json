@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/EldritchHorrorGame/EldritchHorror/Content/UI/MainMenu.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/MainMenu.umap",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/UI/MenuGameMode.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
