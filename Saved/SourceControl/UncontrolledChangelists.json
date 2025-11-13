@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Textures/Wall.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JB/CE9ZBU1CQ3OVD2KG8BUEMR.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WQ/5RRRBWUO6TX8NVZ3NI76W8.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/u2648296/CubeGridToolOutput_46C5DFA2.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/u2648296/CubeGridToolOutput_C423B3D7.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/W3/398DMWIU24B2BZZ9ZRBEEQ.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/a/CubeGridToolOutput_E2E84D46.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/6U/54AAGDK2K0DB1FX7FQA5TC.uasset",
