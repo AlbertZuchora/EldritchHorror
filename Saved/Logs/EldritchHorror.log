@@ -3646,6 +3646,7 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.11.13-12.44.54:916][256]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
 [2025.11.13-12.44.54:916][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.11.13-12.44.55:003][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+<<<<<<< Updated upstream
 [2025.11.13-12.46.01:262][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10189.285156
 [2025.11.13-12.46.02:259][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.13-12.46.02:259][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10189.949219, Update Interval: 353.039948
@@ -3768,3 +3769,5 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.11.13-12.48.22:162][889]LogD3D11RHI: Intel Extensions Framework unloaded
 [2025.11.13-12.48.22:198][889]LogExit: Exiting.
 [2025.11.13-12.48.22:254][889]Log file closed, 11/13/25 12:48:22
+=======
+>>>>>>> Stashed changes
