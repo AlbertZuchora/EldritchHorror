@@ -3649,3 +3649,6 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.11.13-12.46.01:262][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10189.285156
 [2025.11.13-12.46.02:259][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.13-12.46.02:259][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10189.949219, Update Interval: 353.039948
+[2025.11.13-12.46.52:644][615]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FPWeapon/BPI_Interact.
+[2025.11.13-12.46.52:647][615]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FPWeapon/BP_Baton.
+[2025.11.13-12.46.52:652][615]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Models/BP_Door.
