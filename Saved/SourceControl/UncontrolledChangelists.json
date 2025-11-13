@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Textures/Wall.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/StarterContent/Materials/M_Basic_Floor.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JB/CE9ZBU1CQ3OVD2KG8BUEMR.uasset",
@@ -13,15 +12,6 @@
 				"X:/EldritchHorrorGame/EldritchHorror/Content/FPWeapon/Materials/BaseMaterial.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/u2648296/CubeGridToolOutput_46C5DFA2.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/u2648296/CubeGridToolOutput_C423B3D7.uasset",
-=======
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/NewBlackboardData.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/FPWeapon/BPI_Interact.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/FPWeapon/BP_Baton.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UR/VSHZXQWGYWEZ8F3ATX56DK.uasset",
-				"C:/Users/Jonathan/OneDrive/Documents/GitHub/EldritchHorror/Content/Models/BP_Door.uasset",
->>>>>>> Stashed changes
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/W3/398DMWIU24B2BZZ9ZRBEEQ.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/a/CubeGridToolOutput_E2E84D46.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/6U/54AAGDK2K0DB1FX7FQA5TC.uasset",
