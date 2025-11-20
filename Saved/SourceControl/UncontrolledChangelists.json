@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/EldritchHorrorGame/EldritchHorror/Content/BP_Door.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZE/D6EUWP23CATTW3CHXZ5G9K.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/BP_Door_Animation.uasset",
 				"C:/Users/u2529469/OneDrive - University of East London/Unreal Projects/EldritchHorror/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O5/X39WFKIN3AFFA9J9BMXIMT.uasset",
 				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/FirstPerson/Maps/_GENERATED/u2529469/Box_DA6ADCB3.uasset",
