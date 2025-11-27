@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/84/AEDYJF11DT6TJDCL02GL0R.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/Baton_Animation_Basic.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/Baton_Animation_Basic_Anim.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/Baton_Animation_Basic_PhysicsAsset.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/Baton_Animation_Basic_Skeleton.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/Batton.uasset",
+				"D:/AZ/AZ Unreal/EldritchHorror REal/EldritchHorror/Content/Animations/BattonLight.uasset",
 				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/M0/WQR59H5LHG0Q6BOFWYS72R.uasset",
 				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
