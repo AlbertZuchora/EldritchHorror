@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/UnrealProjectYear3/EldritchHorror/Content/Models/models_props/FilingCabinet.uasset",
+				"X:/UnrealProjectYear3/EldritchHorror/Content/Models/models_props/Desk_01.uasset",
+				"X:/UnrealProjectYear3/EldritchHorror/Content/Models/models_props/cafe_table_01.uasset",
+				"X:/UnrealProjectYear3/EldritchHorror/Content/Models/models_props/Toilet_Cell.uasset",
 				"D:/Uni Unreal Projects/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BM/CI7J4HOQRXXFQS82OG3Z2G.uasset",
 				"D:/Uni Unreal Projects/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1C/DRNW2SRYVIIVOPRHOFWQL5.uasset",
 				"D:/Uni Unreal Projects/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2H/HOXE8R6GJFZAEJ0F2VSNLL.uasset",
