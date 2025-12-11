@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UR/VSHZXQWGYWEZ8F3ATX56DK.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/UI/WBP_InteractText.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FPWeapon/BP_Baton.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Lights/HangingLight.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JG/VWO4GKDKOTF0RLHY6T5G43.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Lights/HangingLongLight.uasset",
