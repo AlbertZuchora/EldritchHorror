@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/Blueprints/DoubleDoor.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z9/T2ZK27A31N0NVFCJ8XA2AW.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IW/92ZXYKE2TIA8Y8SEQTQB4V.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kenny/Documents/GitHub/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
 				"C:/Users/kenny/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JG/VWO4GKDKOTF0RLHY6T5G43.uasset",
 				"C:/Users/kenny/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/62/63AS46G039JO7E893P0BP7.uasset",
@@ -586,8 +591,7 @@
 				"C:/Users/kenny/OneDrive/Documents/GitHub/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
 				"C:/Users/kenny/OneDrive/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JG/VWO4GKDKOTF0RLHY6T5G43.uasset",
 				"C:/Users/kenny/OneDrive/Documents/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/62/63AS46G039JO7E893P0BP7.uasset",
-				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/M0/WQR59H5LHG0Q6BOFWYS72R.uasset",
-				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/u2478004/OneDrive - University of East London/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/M0/WQR59H5LHG0Q6BOFWYS72R.uasset"
 			]
 		}
 	]
