@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/EldritchHorror/EldritchHorror/Content/UI/BP_Teleport.uasset",
+				"C:/EldritchHorror/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/TZ2Q50OJ8W7IJO5NMV4OL1.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
