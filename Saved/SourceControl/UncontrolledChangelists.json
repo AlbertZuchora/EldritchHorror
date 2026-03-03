@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/FPWeapon/BP_Baton.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/Models/models_gameplay/BP_Terminal.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/E9/TPZAUYSM9J7WUY6Q5WSW8X.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UR/VSHZXQWGYWEZ8F3ATX56DK.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/44/D9MN5K3118HN33YX5WW7RQ.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/UI/WBP_InteractText.uasset",
 				"C:/EldritchHorror/EldritchHorror/Content/UI/BP_Teleport.uasset",
 				"C:/EldritchHorror/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/TZ2Q50OJ8W7IJO5NMV4OL1.uasset",
 				"C:/EldritchHorror/EldritchHorror/Content/UI/BP_EnemyTP.uasset",
