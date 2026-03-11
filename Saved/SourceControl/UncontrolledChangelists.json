@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
-				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TW/6A7XIGLVDPECDUX3V45E9P.uasset"
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TW/6A7XIGLVDPECDUX3V45E9P.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/UI/BP_Teleport.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset"
 			]
 		}
 	]
