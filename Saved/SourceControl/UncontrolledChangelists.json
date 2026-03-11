@@ -5,12 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/93/UD116ZB3QZIC8AYTDCGIKZ.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TW/6A7XIGLVDPECDUX3V45E9P.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/UI/BP_Teleport.uasset",
-				"X:/EldritchHorrorGame/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset"
+				"X:/EldritchHorrorGame/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Animations/bp_Animation.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JG/VWO4GKDKOTF0RLHY6T5G43.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YT/DWGP38U28JYR4UBN1O15OI.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/37/Z7U2MKNY8XLRL9YYD7ZV1S.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/TZ2Q50OJ8W7IJO5NMV4OL1.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Maxwell.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/93/UD116ZB3QZIC8AYTDCGIKZ.uasset"
 			]
 		}
 	]
