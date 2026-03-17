@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/93/UD116ZB3QZIC8AYTDCGIKZ.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/Sounds/MenuClick.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/Sounds/Heartbeat.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/UI/MainMenu.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/UI/Pause.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/Sounds/AmbienceMachine.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/Sounds/Sources/MachineSource.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/Sounds/Sources/LightSound.uasset",
@@ -160,9 +167,7 @@
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YT/DWGP38U28JYR4UBN1O15OI.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/37/Z7U2MKNY8XLRL9YYD7ZV1S.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/TZ2Q50OJ8W7IJO5NMV4OL1.uasset",
-				"X:/EldritchHorrorGame/EldritchHorror/Content/Maxwell.uasset",
-				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/93/UD116ZB3QZIC8AYTDCGIKZ.uasset"
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Maxwell.uasset"
 			]
 		}
 	]
