@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 03/17/26 09:06:23
+=======
+﻿Log file open, 03/11/26 11:38:20
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 ﻿Log file open, 03/11/26 11:38:20
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -21,7 +25,11 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=20352)
+=======
+LogWindows: Started CrashReportClient (pid=19360)
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 LogWindows: Started CrashReportClient (pid=19360)
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -46,7 +54,11 @@ LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.6937] 
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz"
+=======
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz"
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz"
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -60,6 +72,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -85,6 +98,12 @@ LogCsvProfiler: Display: Metadata set : loginid="16291bbf4ead78d145ed399e0e6d950
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.675091
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" X:\EldritchHorrorGame\EldritchHorror\EldritchHorror.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="16291bbf4ead78d145ed399e0e6d9502"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.675091
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
 LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
@@ -92,9 +111,15 @@ LogInit: Session CrashGUID >====================================================
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
          Session CrashGUID >   UECC-Windows-C1888A0444E23251ABD488B5415E225A
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [D:/AZ/AZ Unreal/EldHor/EldritchHorror/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+=======
+         Session CrashGUID >   UECC-Windows-831099E44B550AC0ADE199989A1F9560
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [X:/EldritchHorrorGame/EldritchHorror/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
          Session CrashGUID >   UECC-Windows-831099E44B550AC0ADE199989A1F9560
          Session CrashGUID >====================================================
@@ -119,6 +144,7 @@ LogAudio: Display: AudioInfo: 'PCM' Registered
 LogAudio: Display: AudioInfo: 'BINKA' Registered
 LogAudio: Display: AudioInfo: 'RADA' Registered
 LogAudio: Display: Audio Device Manager Pre-Initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -168,6 +194,25 @@ LogPluginManager: Unable to find target receipt in path: X:/EldritchHorrorGame/E
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
+LogAssetRegistry: Display: PlatformFileJournal is not available on volume 'X:' of project directory 'X:/EldritchHorrorGame/EldritchHorror/', so AssetDiscovery cache will not be read or written. Unavailability reason:
+	NTFS Journal is not active for volume 'X:'. Launch cmd.exe as admin and run command `fsutil usn createJournal X: m=<SizeInBytes>`. Recommended <SizeInBytes> is 0x40000000 (1GB).
+LogPluginManager: Looking for build plugins target receipt
+LogPluginManager: Unable to find target receipt in path: X:/EldritchHorrorGame/EldritchHorror/Binaries/Win64/*.target
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogAssetRegistry: Display: Asset registry cache read as 87.2 MiB from X:/EldritchHorrorGame/EldritchHorror/Intermediate/CachedAssetRegistry_0.bin.
+LogConfig: Display: Loading Android ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.09 seconds
+LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.10 seconds
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Looking for enabled plugins target receipt
+LogPluginManager: Unable to find target receipt in path: X:/EldritchHorrorGame/EldritchHorror/Binaries/Win64/*.target
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin ChaosInsights
@@ -186,8 +231,11 @@ LogPluginManager: Mounting Engine plugin XGEController
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin OodleNetwork
 =======
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
@@ -327,6 +375,9 @@ LogPluginManager: Mounting Engine plugin UObjectPlugin
 LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -349,8 +400,11 @@ LogPluginManager: Mounting Engine plugin EditorDataStorage
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin EditorDataStorageFeatures
 LogPluginManager: Mounting Engine plugin EditorPerformance
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
@@ -365,10 +419,16 @@ LogPluginManager: Mounting Engine plugin FullBodyIK
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
 LogPluginManager: Mounting Engine plugin GeometryDataflow
 LogPluginManager: Mounting Engine plugin GeometryFlow
 LogPluginManager: Mounting Engine plugin Landmass
+=======
+LogPluginManager: Mounting Engine plugin GeometryDataflow
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 LogPluginManager: Mounting Engine plugin GeometryDataflow
 LogPluginManager: Mounting Engine plugin GeometryFlow
@@ -408,6 +468,7 @@ LogPluginManager: Mounting Engine plugin WebMMedia
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
@@ -420,12 +481,17 @@ LogPluginManager: Mounting Engine plugin SequencerScripting
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin MetaHumanSDK
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin EOSShared
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -435,6 +501,7 @@ LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -591,6 +658,10 @@ LogPluginManager: Mounting Engine plugin XInputDevice
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 LogPluginManager: Mounting Engine plugin XInputDevice
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin XInputDevice
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ObjectMixer
@@ -606,7 +677,10 @@ SourceControl: Revision control is disabled
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
@@ -618,6 +692,9 @@ LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -654,11 +731,14 @@ LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
@@ -672,7 +752,11 @@ LogInit: Platform=WindowsEditor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: MachineId=e968dc0c4879664a3f7e9fb0034dae03
+=======
+LogInit: MachineId=16291bbf4ead78d145ed399e0e6d9502
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 LogInit: MachineId=16291bbf4ead78d145ed399e0e6d9502
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -689,7 +773,11 @@ LogInit: Net CL: 43139311
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (22H2) [10.0.19045.6937] (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+=======
+LogInit: OS: Windows 10 (22H2) [10.0.19045.6937] (), CPU: Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz, GPU: AMD Radeon RX 5700 XT
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 LogInit: OS: Windows 10 (22H2) [10.0.19045.6937] (), CPU: Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz, GPU: AMD Radeon RX 5700 XT
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
@@ -764,6 +852,7 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1794,6 +1883,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.17-09.09.46:573][385]LogExit: Exiting.
 [2026.03.17-09.09.46:610][385]Log file closed, 03/17/26 09:09:46
 =======
+=======
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
@@ -3608,6 +3699,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.11-11.51.42:462][ 21]Log file closed, 03/11/26 11:51:42
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
+=======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
 =======
 >>>>>>> parent of 9f62539... Ambience Sounds + Terminals Re Added
