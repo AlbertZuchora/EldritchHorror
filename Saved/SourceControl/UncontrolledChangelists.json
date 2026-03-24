@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Loading.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/UI/MainMenu.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/Loading_Screen_copy.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RE/PSXMAM90AI7KT667LR8B8X.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/F2/SDBZO1I7H2FA0364MJGXPP.uasset",
 				"C:/Users/a/Downloads/!stuff_that_matters/Unreal/EldritchHorror/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
