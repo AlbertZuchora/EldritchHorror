@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/Blueprints/DoubleDoor.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/UI/WBP_Cutscene.uasset",
+				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Models/models_props/MehanicalDoorEmission.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Blueprints/BP_Door.uasset",
 				"X:/EldritchHorrorGame/EldritchHorror/Content/Models/models_props/MehanicalDoorEmission1.uasset",
