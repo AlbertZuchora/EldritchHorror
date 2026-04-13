@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/EldritchHorror/EldritchHorror/Content/UI/MainMenu.uasset",
+				"C:/EldritchHorror/EldritchHorror/Content/UI/WBP_Cutscene.uasset",
+				"C:/EldritchHorror/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/Blueprints/DoubleDoor.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/UI/WBP_Cutscene.uasset",
 				"C:/Users/jonat/OneDrive/Documents/GitHub/EldritchHorror/Content/FirstPerson/Maps/FirstPersonMap.umap",
