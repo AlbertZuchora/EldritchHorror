@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/UI/WBP_Cutscene.uasset",
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/Blueprints/DoubleDoor.uasset",
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IW/92ZXYKE2TIA8Y8SEQTQB4V.uasset",
@@ -20,6 +21,10 @@
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/EnemyAI/BP_Enemy.uasset",
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/UI/BP_EnemyTP.uasset",
 				"C:/Users/u2478004/OneDrive/GitHub/EldritchHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+=======
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/UI/MainMenu.uasset",
+				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/UI/Refined_AAEF_copy.uasset",
+>>>>>>> a1ab8675b6eeee132aae47375939ee5d72608c05
 				"D:/Uni Unreal Projects/EldritchHorror/Content/Models/map_mesh/Cells/AlienTestTubeLight.uasset",
 				"D:/Uni Unreal Projects/EldritchHorror/Content/Models/map_mesh/Cells/BlackGlossy.uasset",
 				"D:/Uni Unreal Projects/EldritchHorror/Content/Models/map_mesh/Cells/Blue_Plastic.uasset",
