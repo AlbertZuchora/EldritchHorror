@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/EldritchHorrorGame/EldritchHorror/Content/FirstPerson/EnemyAI/BP_Enemy.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JG/VWO4GKDKOTF0RLHY6T5G43.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/68/XY1MTQY3NEHTH365VJ9RJH.uasset",
+				"X:/EldritchHorrorGame/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/CH/2AXUICWFD58019OGF755M4.uasset",
 				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/UI/MainMenu.uasset",
 				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TW/AKE86ZMQYL0MXQGAZ26YC1.uasset",
 				"D:/AZ/AZ Unreal/EldHor/EldritchHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0A/U8VUXXE12HNIY553BCF0YP.uasset",
