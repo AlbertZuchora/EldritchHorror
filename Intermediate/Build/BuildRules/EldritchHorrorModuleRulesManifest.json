@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\a\\Downloads\\!stuff_that_matters\\Unreal\\EldritchHorror\\Intermediate\\Source\\EldritchHorror.Build.cs",
-		"C:\\Users\\a\\Downloads\\!stuff_that_matters\\Unreal\\EldritchHorror\\Intermediate\\Source\\EldritchHorror.Target.cs",
-		"C:\\Users\\a\\Downloads\\!stuff_that_matters\\Unreal\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorClient.Target.cs",
-		"C:\\Users\\a\\Downloads\\!stuff_that_matters\\Unreal\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorEditor.Target.cs",
-		"C:\\Users\\a\\Downloads\\!stuff_that_matters\\Unreal\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorServer.Target.cs"
+		"X:\\EldritchHorrorGame\\EldritchHorror\\Intermediate\\Source\\EldritchHorror.Build.cs",
+		"X:\\EldritchHorrorGame\\EldritchHorror\\Intermediate\\Source\\EldritchHorror.Target.cs",
+		"X:\\EldritchHorrorGame\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorClient.Target.cs",
+		"X:\\EldritchHorrorGame\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorEditor.Target.cs",
+		"X:\\EldritchHorrorGame\\EldritchHorror\\Intermediate\\Source\\EldritchHorrorServer.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }
