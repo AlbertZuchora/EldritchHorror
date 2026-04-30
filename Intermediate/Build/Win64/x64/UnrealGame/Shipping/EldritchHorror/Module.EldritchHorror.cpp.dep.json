@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "x:\\eldritchhorrorgame\\eldritchhorror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\eldritchhorror\\module.eldritchhorror.cpp",
+        "Source": "c:\\users\\a\\downloads\\!stuff_that_matters\\unreal\\eldritchhorror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\eldritchhorror\\module.eldritchhorror.cpp",
         "ProvidedModule": "",
-        "PCH": "x:\\eldritchhorrorgame\\eldritchhorror\\intermediate\\build\\win64\\x64\\eldritchhorror\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "PCH": "c:\\users\\a\\downloads\\!stuff_that_matters\\unreal\\eldritchhorror\\intermediate\\build\\win64\\x64\\eldritchhorror\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
-            "x:\\eldritchhorrorgame\\eldritchhorror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\eldritchhorror\\definitions.eldritchhorror.h",
-            "x:\\eldritchhorrorgame\\eldritchhorror\\intermediate\\source\\eldritchhorror.cpp"
+            "c:\\users\\a\\downloads\\!stuff_that_matters\\unreal\\eldritchhorror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\eldritchhorror\\definitions.eldritchhorror.h",
+            "c:\\users\\a\\downloads\\!stuff_that_matters\\unreal\\eldritchhorror\\intermediate\\source\\eldritchhorror.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
